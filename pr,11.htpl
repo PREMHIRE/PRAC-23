@@ -1,0 +1,33 @@
+<htpl>
+
+<head>
+
+<title>FYIF-01.</title>
+
+</head>
+
+<Body>
+
+<p>College name: MET Bhujbal knowledge City.</p>
+
+<p>Subject: WPD.</p><br>
+
+<p><i>Name: Dipti Sunil Patil</i></p>
+
+<p>Branch: Information Technology </p>
+
+<p>Subject Teacher Chetan Mogare</p>
+
+<hr></hr>
+
+<h1>W3school Links</h1>
+
+<p><a href="https://www.w3schools.com/">Visit W3Schools.com!</a></p
+
+<h1>msbte Links</h1>
+
+<p><a href="https://msbte.org.in/">visit MSBTE site!</a></p>
+
+</Body>
+
+</htpl>
